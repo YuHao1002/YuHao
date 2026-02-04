@@ -26,7 +26,7 @@ Developed a coordination system for an AMR and a robotic arm in a 3-week sprint.
 Designed sequential control logic to compensate for base positioning errors.
 Integrated Inverse Kinematics for precise pick-and-place tasks.
 
-📊 GitHub Stats
+GitHub Stats
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYuHao1002%26show_icons%3Dtrue%26theme%3Dradical" height="150" alt="GitHub Stats" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYuHao1002%26layout%3Dcompact%26theme%3Dradical" height="150" alt="Top Languages" />
