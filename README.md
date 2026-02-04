@@ -33,6 +33,7 @@ I specialize in building **hybrid software architectures (C++/C#)** to bridge hi
 ---
 
 Key Projects & Achievements
+
 🔹 Automated Carrier Tape Precision Inspection System (AOI)
 Master's Thesis | C++, C#, OpenCV, Motion Control
 Designed a C++/C# Hybrid Architecture with CLI wrappers and integrated SQL/SPC for real-time quality monitoring.
