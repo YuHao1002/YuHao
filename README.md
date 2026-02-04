@@ -35,43 +35,30 @@ I specialize in building **hybrid software architectures (C++/C#)** to bridge hi
 Key Projects & Achievements
 🔹 Automated Carrier Tape Precision Inspection System (AOI)
 Master's Thesis | C++, C#, OpenCV, Motion Control
-
 Designed a C++/C# Hybrid Architecture with CLI wrappers and integrated SQL/SPC for real-time quality monitoring.
-
 Implemented Electronic Gearing and Hardware Triggering (Basler) to eliminate dynamic errors during high-speed movement.
-
 Achieved Micron-level Dynamic Correction using Pixel Fitting and coordinate transformation models.
 
 🔹 Autonomous Racing Vehicle (TIRT Champion) 🥇
 1st Place in TIRT International Robotics Tournament | C++, ROS, LiDAR
-
 Led the software team and designed a lightweight communication framework using C++ and ROS.
-
 Developed Adaptive Weight Switching algorithms combining LiDAR and Vision for robust navigation.
 
 🔹 Mobile Robot Manipulator (RoboSot)
 Robotics Integration Project | Concurrent Engineering, Coordinate Systems
-
 Developed a coordination system for an AMR and a robotic arm in a 3-week sprint using Concurrent Engineering.
-
 Established a Visual-Arm Communication Protocol and used SURF Feature Matching to guide precise pick-and-place tasks.
 
 🔹 Concrete Feature Automated Recognition System
 Cross-Language System Development | C#, C++, OpenCV, CLI
-
 Developed a cross-language analysis system using C# for the interface and CLI to encapsulate underlying C++ and OpenCV algorithms.
-
 Transformed complex image parameters into intuitive numerical adjustments and real-time red-box feedback to lower the operation threshold.
-
 Deployed as an independent executable to eliminate cross-domain technical barriers for users.
 
 🔹 AutoRace Autonomous Driving System
 2025 International Intelligent RoboSports Cup | ROS, Hierarchical State Machine, SLAM
-
 Designed a Hierarchical State Machine to manage multiple logic stages including traffic signal recognition and SLAM navigation.
-
 Defined software communication interfaces and TF coordinate transformation standards to integrate heterogeneous algorithms into the ROS architecture.
-
 Developed an adaptive weight switching mechanism to overcome the limitations of single sensors in specific environments.
 
 🔹 Visual Collaborative Robotic Arm Automation System
@@ -111,7 +98,6 @@ TIRT 國際機器人競賽第一名 | C++, ROS, LiDAR
 
 🔹 視覺協作型機械手臂自動化拼接系統
 機械手臂整合 | ROS, TM5-700, Computer Vision
-
 基於 ROS 架構整合 TM5-700 手臂，利用 Service/Client 機制進行即時通訊 。
 視覺端運用 Median Filter 優化遮罩，結合 SURF 與 Similarity Transform 解算 360 度任意位姿 。
 控制端實作 逆向運動學 轉換空間座標，規劃最佳路徑完成 4x4 拼圖之自動化 Pick-and-Place 任務 。
