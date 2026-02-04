@@ -10,7 +10,6 @@ Frameworks & Libraries
 Tools & Platforms
 
 🏆 Key Projects & Achievements
-
 🔹 Automated Carrier Tape Precision Inspection System (AOI)
 Master's Thesis: Developed a high-speed inspection machine with Visual Feedback.
 Implemented a C++/C# Hybrid Architecture using C++/CLI wrappers.
@@ -28,20 +27,13 @@ Designed sequential control logic to compensate for base positioning errors.
 Integrated Inverse Kinematics for precise pick-and-place tasks.
 
 📊 GitHub Stats
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%YuHao1002%26show_icons%3Dtrue%26theme%3Dradical" height="150" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%YuHao1002%26layout%3Dcompact%26theme%3Dradical" height="150" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYuHao1002%26show_icons%3Dtrue%26theme%3Dradical" height="150" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYuHao1002%26layout%3Dcompact%26theme%3Dradical" height="150" alt="Top Languages" />
 </div>
 
-<!-- ⚠️ IMPORTANT: Replace 'YuHao1002' in the URLs above with your actual GitHub username! -->
-
 📫 Connect with Me
-
 Email: yuhao910826@gmail.com
-
 LinkedIn: Liang Yu-Hao
-
-Location: Kaohsiung, Taiwan
-
+Location: Taiwan
 ⭐️ Looking for R&D substitute service opportunities in AOI, Automation, or Robotics!
