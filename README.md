@@ -28,8 +28,8 @@ Integrated Inverse Kinematics for precise pick-and-place tasks.
 
 📊 GitHub Stats
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYuHao1002%26show_icons%3Dtrue%26theme%3Dradical" height="150" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYuHao1002%26layout%3Dcompact%26theme%3Dradical" height="150" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLiang Yu-Hao%26show_icons%3Dtrue%26theme%3Dradical" height="150" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLiang Yu-Hao%26layout%3Dcompact%26theme%3Dradical" height="150" alt="Top Languages" />
 </div>
 
 📫 Connect with Me
