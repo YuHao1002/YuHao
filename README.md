@@ -15,9 +15,12 @@
 ### 👨‍💻 About Me
 
 I am currently pursuing a Master's degree in Electrical Engineering at **National Kaohsiung University of Science and Technology (NKUST)**. My research focuses on **Automated Optical Inspection (AOI)**, **Visual Servoing**, and **Mechatronics Integration**.
-I specialize in building **hybrid software architectures (C++/C#)** to bridge high-performance algorithms with user-friendly interfaces for industrial applications.
+I specialize in building **hybrid software architectures (C++/C#)** to bridge high-performance algorithms with user-friendly interfaces. I possess practical experience ranging from algorithm design to low-level machine control, specifically in **ROS** and **Advantech Motion SDK**.
 
-  我目前就讀於國立高雄科技大學電機工程系碩士班，專注於**自動光學檢測 (AOI)**、**視覺伺服控制** 與 **機電整合** 領域。擅長設計 **C++/C# 混合語言架構**。
+<br/>
+
+我目前就讀於國立高雄科技大學電機工程系碩士班，主修 **電腦視覺** 與 **機電系統整合**。碩士期間專注於 **自動光學檢測 (AOI)** 系統研發，實作內容包含微米級幾何量測、視覺伺服回授控制以及感測器整合。
+我擅長設計 **C++/C# 混合語言架構**，利用 CLI 中介層解決跨語言傳輸問題以兼顧運算效能與開發彈性，並擁有從 **演算法開發** 到 **機台底層控制** 的完整實務經驗。
 
 ---
 
