@@ -62,14 +62,6 @@ I specialize in building **hybrid software architectures (C++/C#)** to bridge hi
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=YuHao1002&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=YuHao1002&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</p>
-
----
 
 <div align="center">
   <p>Last Updated: 2026 • Designed by Liang Yu-Hao</p>
