@@ -37,29 +37,27 @@ I specialize in building **hybrid software architectures (C++/C#)** to bridge hi
 #### 🔹 Automated Carrier Tape Precision Inspection System (AOI)
 > **Master's Thesis** | *C++, C#, OpenCV, Motion Control*
 
-* **Hybrid Architecture & SPC:** Designed a **C++/C# Hybrid Architecture** with CLI wrappers and integrated **SQL/SPC** for real-time quality monitoring (X-bar/R-chart).
-    * 設計 **C++/C# 混合語言架構** 與 CLI 中介層，並導入 SQL 與 **SPC 統計製程管制** 生成即時品質圖表。
+* **Hybrid Architecture & SPC:** Designed a **C++/C# Hybrid Architecture** with CLI wrappers and integrated **SQL/SPC** for real-time quality monitoring.
 * **Motion Control Integration:** Implemented **Electronic Gearing** and **Hardware Triggering** (Basler) to eliminate dynamic errors during high-speed movement.
-    * 整合運動控制卡實作 **電子齒輪比 (Electronic Gearing)** 與相機硬體觸發，精確消除高速移動下之動態誤差。
 * **Visual Feedback Algorithm:** Achieved **Micron-level Dynamic Correction** using **Pixel Fitting** and coordinate transformation models.
-    * 運用 **OpenCV 像素擬合** 與座標轉換模型，計算視覺回授補償量，實現 **微米級 (Micron-level)** 即時動態修正。
+
+設計 **C++/C# 混合架構與 CLI 中介層**，解決跨語言傳輸問題以兼顧運算效能與開發彈性，並導入 **SQL 資料庫與 SPC 統計模組** 以即時監控生產品質。整合運動控制卡實作 **電子齒輪比** 與硬體訊號整合，精確消除高速移動之動態誤差。運用 **OpenCV 進行像素擬合** 與座標轉換模型，計算視覺回授補償量實現 **微米級即時動態修正**。
 
 #### 🔹 Autonomous Racing Vehicle (TIRT Champion) 🥇
 > **1st Place in TIRT International Robotics Tournament** | *C++, ROS, LiDAR*
 
 * **System Architecture:** Led the software team and designed a lightweight communication framework using **C++ and ROS**.
-    * 擔任軟體負責人，採用 **C++ 結合 ROS** 建構輕量化通訊架構，優化嵌入式系統效能。
 * **Sensor Fusion Strategy:** Developed **Adaptive Weight Switching** algorithms combining **LiDAR and Vision** for robust navigation.
-    * 實作 **多感測器融合 (Sensor Fusion)** 策略，開發 **自適應權重切換** 演算法，解決單一感測器在複雜賽道之局限。
+
+擔任隊長主導軟硬體分工，採用 **C++ 結合 ROS 建構輕量化通訊架構**，優化嵌入式系統之運算效能。實作 **LiDAR 與視覺之多感測器融合 (Sensor Fusion)** 策略，開發 **動態權重演算法** (或自適應權重切換機制)，依據賽道特徵自動切換導航權重。
 
 #### 🔹 Mobile Robot Manipulator (RoboSot)
 > **Robotics Integration Project** | *Concurrent Engineering, Coordinate Systems*
 
 * **Rapid Development:** Developed a coordination system for an AMR and a robotic arm in a **3-week sprint** using Concurrent Engineering.
-    * 採用 **同步工程 (Concurrent Engineering)** 模式，於三週內完成移動底盤與機械手臂之系統整合。
 * **Visual-Arm Coordination:** Established a **Visual-Arm Communication Protocol** and used **SURF Feature Matching** to guide precise pick-and-place tasks.
-    * 建立 **視覺與手臂通訊協定** 並轉換機械空間座標，應用 **SURF 特徵匹配** 解決物件任意姿態之定位問題。
 
+採用 **同步工程 (Concurrent Engineering)** 模式於三週極限週期內完成開發，實現 AMR 與機械手臂之精確協同控制。**建立視覺與手臂通訊協定**，將影像像素轉換為機械空間座標，並應用 **SURF 特徵匹配演算法** 解決物件任意姿態之定位問題，引導手臂執行精確抓取。
 ---
 
 
