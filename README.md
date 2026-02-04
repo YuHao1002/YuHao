@@ -1,6 +1,6 @@
 <div align="center">
-# Hi there, I'm Liang Yu-Hao (梁羽皓) 👋  
-  
+# Hi there, I'm Liang Yu-Hao (梁羽皓) 👋
+  <br/>
 ### 🚀 Master's Student | AOI & Computer Vision | Mechatronics Integration
 <a href="mailto:yuhao910826@gmail.com"><img src="https://img.shields.io/badge/Email-yuhao910826%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/liang-yu-hao/"><img src="https://img.shields.io/badge/LinkedIn-Liang%20Yu--Hao-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
